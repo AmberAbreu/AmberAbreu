@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
 -->
-- 🔭 I’m currently working on building a mobile personal finance tracker: FIREStarter🔥 
+- 🔭 I’m currently working as a Teaching Fellow at Fullstack Academy
 - 📫 How to reach me: ambermabreu@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I majored in Linguistics at Stony Brook University🎓
