@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
 -->
-- 🔭 I’m currently working as a Junior Engineer at Topl
+- 🔭 I’m currently working as a Developer at Project Basta
 - 📫 How to reach me: ambermabreu@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I majored in Linguistics at Stony Brook University🎓
